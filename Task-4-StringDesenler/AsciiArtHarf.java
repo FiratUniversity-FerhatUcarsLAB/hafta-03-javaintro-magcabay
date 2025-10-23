@@ -1,6 +1,6 @@
 package Ekim17Hafta3.Gorev4;
 
-public class AaciiArtHarf {
+public class AsciiArtHarf {
     public static void main(String[] args) {
         String harfM = "M       M\n" +
                 "MM     MM\n" +
@@ -15,3 +15,4 @@ public class AaciiArtHarf {
 
     }
 }
+
